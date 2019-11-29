@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\GettersAndSetters\GettersAndSetters\bin\Debug\GettersAndSetters.exe.config
+C:\Users\opilane\projects\GettersAndSetters\GettersAndSetters\bin\Debug\GettersAndSetters.exe
+C:\Users\opilane\projects\GettersAndSetters\GettersAndSetters\bin\Debug\GettersAndSetters.pdb
+C:\Users\opilane\projects\GettersAndSetters\GettersAndSetters\obj\Debug\GettersAndSetters.csprojAssemblyReference.cache
+C:\Users\opilane\projects\GettersAndSetters\GettersAndSetters\obj\Debug\GettersAndSetters.exe
+C:\Users\opilane\projects\GettersAndSetters\GettersAndSetters\obj\Debug\GettersAndSetters.pdb

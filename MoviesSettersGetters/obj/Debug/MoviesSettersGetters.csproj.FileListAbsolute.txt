@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\GettersAndSetters\MoviesSettersGetters\bin\Debug\MoviesSettersGetters.exe.config
+C:\Users\opilane\projects\GettersAndSetters\MoviesSettersGetters\bin\Debug\MoviesSettersGetters.exe
+C:\Users\opilane\projects\GettersAndSetters\MoviesSettersGetters\bin\Debug\MoviesSettersGetters.pdb
+C:\Users\opilane\projects\GettersAndSetters\MoviesSettersGetters\obj\Debug\MoviesSettersGetters.csprojAssemblyReference.cache
+C:\Users\opilane\projects\GettersAndSetters\MoviesSettersGetters\obj\Debug\MoviesSettersGetters.exe
+C:\Users\opilane\projects\GettersAndSetters\MoviesSettersGetters\obj\Debug\MoviesSettersGetters.pdb
